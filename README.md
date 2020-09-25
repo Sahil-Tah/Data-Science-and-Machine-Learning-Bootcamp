@@ -13,9 +13,6 @@ This repository contains my notes/assignments of this amazing [Udemy Course](htt
   * Geographical Plotting
   * Data Capstone Project
 
-```diff
-NOTE: Below mentioned topics will be updated later!
-```
   
 ### Machine Learning
 
@@ -31,6 +28,5 @@ NOTE: Below mentioned topics will be updated later!
   * Recommender Systems
   * Natural Language Processing
   * Neural Nets and Deep Learning
-  * Big Data & Spark with Python
   
 #### I'd recommend going through the course as all the topics are better explained there.
